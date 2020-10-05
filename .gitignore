@@ -1,0 +1,7 @@
+cvimrc
+.fzf/
+.fzf.bash
+coc/
+plugged/
+plug.vim
+
